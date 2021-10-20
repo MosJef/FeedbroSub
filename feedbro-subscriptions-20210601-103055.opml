@@ -28,7 +28,7 @@
       <outline text="TechRepublic" title="TechRepublic" type="rss" 
             xmlUrl="https://www.techrepublic.com/rssfeeds/articles/?feedType=rssfeeds&amp;sort=latest" htmlUrl="https://www.techrepublic.com/"/>
   </outline>
-  <outline title="sec" text="sec">
+  <outline title="Sec" text="Sec">
       <outline text="Dark Reading" title="Dark Reading" type="rss" 
             xmlUrl="https://www.darkreading.com/rss_simple.asp" htmlUrl="https://www.darkreading.com"/>
       <outline text="Threatpost" title="Threatpost" type="rss" 
