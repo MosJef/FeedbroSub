@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+  <outline title="GitHub" text="GitHub">
+      <outline text="The GitHub Blog » Feed" title="The GitHub Blog » Feed" type="rss" 
+            xmlUrl="https://github.blog/feed/" htmlUrl="https://github.blog"/>
+      <outline text="The GitHub Blog » Changelogs Feed" title="The GitHub Blog » Changelogs Feed" type="rss" 
+            xmlUrl="https://github.blog/changelog/feed/" htmlUrl="https://github.blog"/>
+  </outline>
+  <outline title="*nix" text="*nix">
+      <outline text="Linux Today » Feed" title="Linux Today » Feed" type="rss" 
+            xmlUrl="https://www.linuxtoday.com/feed/" htmlUrl="https://www.linuxtoday.com"/>
+      <outline text="9to5Linux » Feed" title="9to5Linux » Feed" type="rss" 
+            xmlUrl="https://9to5linux.com/feed" htmlUrl="https://9to5linux.com"/>
+      <outline text="LXer Linux News" title="LXer Linux News" type="rss" 
+            xmlUrl="http://lxer.com/module/newswire/headlines.rss" htmlUrl="http://lxer.com/"/>
+      <outline text="LWN.net headlines" title="LWN.net headlines" type="rss" 
+            xmlUrl="https://lwn.net/headlines/newrss" htmlUrl="https://lwn.net"/>
+  </outline>
+  <outline title="Tech" text="Tech">
+      <outline text="Reddit - Sysadmin" title="Reddit - Sysadmin" type="rss" 
+            xmlUrl="https://www.reddit.com/r/sysadmin/new/.rss" htmlUrl="https://www.reddit.com/r/sysadmin/new/"/>
+      <outline text="Windows OS Hub" title="Windows OS Hub" type="rss" 
+            xmlUrl="http://woshub.com/feed/" htmlUrl="http://woshub.com"/>
+      <outline text="Adam the Automator" title="Adam the Automator" type="rss" 
+            xmlUrl="https://adamtheautomator.com/feed/" htmlUrl="https://adamtheautomator.com"/>
+      <outline text="Slashdot" title="Slashdot" type="rss" 
+            xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="https://slashdot.org/"/>
+      <outline text="TheVerge - Tech" title="Tech" type="rss" 
+            xmlUrl="https://www.theverge.com/rss/tech/index.xml" htmlUrl="https://www.theverge.com/tech"/>
+      <outline text="4sysops" title="4sysops | Site Wide Activity RSS Feed" type="rss" 
+            xmlUrl="https://4sysops.com/feed/" htmlUrl="https://4sysops.com"/>
+      <outline text="Android Police - Android news, reviews, apps, games, phones, tablets » Feed" title="Android Police - Android news, reviews, apps, games, phones, tablets » Feed" type="rss" 
+            xmlUrl="https://www.androidpolice.com/feed/" htmlUrl="https://www.androidpolice.com "/>
+      <outline text="Bountied questions - Super User" title="Bountied questions - Super User" type="rss" 
+            xmlUrl="http://superuser.com/feeds/featured" htmlUrl="https://superuser.com/questions"/>
+      <outline text="Everythingsysadmin" title="Everythingsysadmin" type="rss" 
+            xmlUrl="https://feeds.everythingsysadmin.com/EverythingSysadmin" htmlUrl="https://everythingsysadmin.com/"/>
+      <outline text="The Register" title="The Register" type="rss" 
+            xmlUrl="https://www.theregister.com/headlines.atom" htmlUrl="https://www.theregister.com/"/>
+      <outline text="TechRepublic" title="TechRepublic" type="rss" 
+            xmlUrl="https://www.techrepublic.com/rssfeeds/articles/?feedType=rssfeeds&amp;sort=latest" htmlUrl="https://www.techrepublic.com"/>
+  </outline>
+  <outline title="Sec" text="Sec">
+      <outline text="Dark Reading" title="Dark Reading" type="rss" 
+            xmlUrl="https://www.darkreading.com/rss_simple.asp" htmlUrl="https://www.darkreading.com"/>
+      <outline text="Threatpost" title="Threatpost" type="rss" 
+            xmlUrl="https://threatpost.com/feed/" htmlUrl="https://threatpost.com"/>
+      <outline text="Google Online Security Blog" title="Google Online Security Blog" type="rss" 
+            xmlUrl="https://security.googleblog.com/feeds/posts/default?alt=rss" htmlUrl="http://security.googleblog.com/"/>
+      <outline text="Krebs on Security" title="Krebs on Security" type="rss" 
+            xmlUrl="https://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com"/>
+      <outline text="The Register - Security" title="The Register - Security" type="rss" 
+            xmlUrl="https://www.theregister.com/security/headlines.atom" htmlUrl="https://www.theregister.com/security/"/>
+      <outline text="Hacker News" title="Hacker News" type="rss" 
+            xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/"/>
+      <outline text="/r/netsec" title="/r/netsec" type="rss" 
+            xmlUrl="https://www.reddit.com/r/netsec/.rss" htmlUrl="https://www.reddit.com/r/netsec/"/>
+  </outline>
+  <outline title="Sneakers" text="Sneakers">
+      <outline text="Sneaker News" title="Sneaker News" type="rss" 
+            xmlUrl="https://sneakernews.com//feed" htmlUrl="https://sneakernews.com"/>
+      <outline text="KicksOnFire.com" title="KicksOnFire.com" type="rss" 
+            xmlUrl="https://www.kicksonfire.com//feed" htmlUrl="https://www.kicksonfire.com"/>
+  </outline>
+  <outline title="MtG" text="MtG">
+      <outline text="WotC - Magic: The Gathering" title="WotC - Magic: The Gathering" type="rss" 
+            xmlUrl="https://magic.wizards.com/en/rss/rss.xml" htmlUrl="https://magic.wizards.com"/>
+      <outline text="EDHREC" title="EDHREC" type="rss" 
+            xmlUrl="https://edhrec.com/articles//feed" htmlUrl="https://edhrec.com/articles"/>
+      <outline text="ChannelFireball - Magic: The Gathering Strategy, Singles, Cards, Decks » Feed" title="ChannelFireball - Magic: The Gathering Strategy, Singles, Cards, Decks » Feed" type="rss" 
+            xmlUrl="https://strategy.channelfireball.com/all-strategy/feed/" htmlUrl="https://strategy.channelfireball.com/all-strategy"/>
+  </outline>
+</body>
+</opml>
